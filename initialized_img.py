@@ -1,0 +1,1 @@
+#initializing img folder
